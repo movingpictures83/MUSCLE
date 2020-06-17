@@ -1,0 +1,2 @@
+Prefix plugins/MUSCLE/example
+Plugin MUSCLE inputfile HMP_MOCK.v35.fasta outputfile output
